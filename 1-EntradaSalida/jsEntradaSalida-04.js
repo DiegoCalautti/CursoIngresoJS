@@ -16,7 +16,7 @@ function mostrar()
 												// el .value nos muestra el valor ingresado en el cuadro de texto
 												// para obtener el .getElementById get tab shift I.
 												// .getElementById es Obtener elemento por ID
-	//alert(nombreIngresado);   //recordar, variable va sin comillas y el ALERT NO LLEVA VALUE.
+	alert(nombreIngresado);   //recordar, variable va sin comillas y el ALERT NO LLEVA VALUE.
 
 }
 
